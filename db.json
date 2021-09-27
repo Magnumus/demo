@@ -1,6 +1,6 @@
 {
   "rows": [
-    {0: "Order Id", 1: "Date", 2: "Status", 3: "Total", 4: "Currency", 5: "Count"} 
+    {"0": "Order Id", "1": "Date", "2": "Status", "3": "Total", "4": "Currency", "5": "Count"} 
    ],
   "data":[
       {"order_id": "#4312", "date": "September 27, 2021", "status": "Complited", "total": 3.23, "currency": "USD", "count": 2},
