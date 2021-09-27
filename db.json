@@ -4,7 +4,7 @@
       {"order_id": "#4313", "date": "September 27, 2021", "status": "Complited", "total": 0.00, "currency": "USD", "count": 1},
       {"order_id": "#4314", "date": "September 28, 2021", "status": "Complited", "total": 2.00, "currency": "EUR", "count": 1}
   ],
-  "profile": {
-    "name": "typicode"
+  "data_type": {
+    "type": "orders"
   }
 }
