@@ -1,14 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "user_id": 1,
+  "orders":[
+    {"order_id": "#4312", "date": "September 27, 2021", "status": "Complited", "total": 3.23, "currency": "USD", "count": 2},
+    {"order_id": "#4313", "date": "September 27, 2021", "status": "Complited", "total": 0.00, "currency": "USD", "count": 1},
+    {"order_id": "#4314", "date": "September 28, 2021", "status": "Complited", "total": 2.00, "currency": "EUR", "count": 1}
+  ]
 }
